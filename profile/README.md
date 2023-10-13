@@ -34,7 +34,7 @@ Associate Professor @ DIAG, Sapienza University of Rome
 
 ### Carlo Carugno
 
-MSc Student Engineering in Computer Science @ DIAG, Sapienza University of Rome. He is currently doing his MSc thesis
+MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Rome. He is currently doing his MSc thesis
 
 [LinkedIn](https://www.linkedin.com/in/carlo-carugno-b50331142/)
 
