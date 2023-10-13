@@ -18,7 +18,7 @@ PhD Student in Engineering in Computer Science @ DIAG, Sapienza University of Ro
 
 ### Domenico Garlisi
 
-Assistant Professor @ University of Palermo - Research Collaborator at CNIT
+Assistant Professor @ University of Palermo - Research Collaborator @ CNIT
 
 [LinkedIn](https://www.linkedin.com/in/domenicogarlisi/)
 
