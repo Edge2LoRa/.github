@@ -54,3 +54,8 @@ MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Ro
 [1] Milani, Stefano, Domenico Garlisi, Matteo Di Fraia, Patrizio Pisani, and Ioannis Chatzigiannakis. "Enabling Edge processing on LoRaWAN architecture." In Proceedings of the 29th Annual International Conference on Mobile Computing and Networking, pp. 1-3. 2023. https://doi.org/10.1145/3570361.3614074
 
 [2] Milani, Stefano, Domenico Garlisi, Carlo Carugno, Christian Tedesco, and Ioannis Chatzigiannakis. "Edge2LoRa: Enabling edge computing on long-range wide-area Internet of Things." Internet of Things 27 (2024): 101266. https://doi.org/10.1016/j.iot.2024.101266
+
+
+## Award
+
+* Elsevier Internet of Things Editor's Choice Awards - July 2024 [1] https://www.sciencedirect.com/journal/internet-of-things/about/editors-choice#editor-s-choice-awards-july-2024 
