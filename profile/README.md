@@ -1,6 +1,6 @@
 # Edge2LoRa
 
-Edge2LoRa allows to enable edge computing over LoRaWAN.
+Edge2LoRa allows edge computing to be enabled over LoRaWAN.
 
 ## How to use
 
@@ -51,4 +51,6 @@ MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Ro
 
 ## References
 
-[1] Stefano Milani, Domenico Garlisi, Matteo Di Fraia, Patrizio Pisani, and Ioannis Chatzigiannakis. 2023. Enabling Edge processing on LoRaWAN architecture. In Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '23). Association for Computing Machinery, New York, NY, USA, Article 103, 1–3. https://doi.org/10.1145/3570361.3614074
+[1] Milani, Stefano, Domenico Garlisi, Matteo Di Fraia, Patrizio Pisani, and Ioannis Chatzigiannakis. "Enabling Edge processing on LoRaWAN architecture." In Proceedings of the 29th Annual International Conference on Mobile Computing and Networking, pp. 1-3. 2023. https://doi.org/10.1145/3570361.3614074
+
+[2] Milani, Stefano, Domenico Garlisi, Carlo Carugno, Christian Tedesco, and Ioannis Chatzigiannakis. "Edge2LoRa: Enabling edge computing on long-range wide-area Internet of Things." Internet of Things 27 (2024): 101266. https://doi.org/10.1016/j.iot.2024.101266
