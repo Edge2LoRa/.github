@@ -2,10 +2,6 @@
 
 Edge2LoRa allows edge computing to be enabled over LoRaWAN.
 
-## How to use
-
-Available soon.
-
 ## Team
 
 ### Stefano Milani
@@ -32,21 +28,13 @@ Associate Professor @ DIAG, Sapienza University of Rome
 
 [GitHub](https://github.com/ichatz)
 
-### Carlo Carugno
+### Lorenzo Frangella
 
 MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Rome. He is currently doing his MSc thesis
 
-[LinkedIn](https://www.linkedin.com/in/carlo-carugno-b50331142/)
+[LinkedIn](https://www.linkedin.com/in/lorenzo-frangella-3492b123b/)
 
-[GitHub](https://github.com/carugno)
-
-### Christian Tedesco
-
-MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Rome. He is currently doing his MSc thesis
-
-[LinkedIn](https://www.linkedin.com/in/christian-tedesco/)
-
-[GitHub](https://github.com/ChriT99)
+[GitHub](https://github.com/LorenzoFrangella)
 
 
 ## References
@@ -59,3 +47,22 @@ MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Ro
 ## Award
 
 * Elsevier Internet of Things Editor's Choice Awards - July 2024 [1] https://www.sciencedirect.com/journal/internet-of-things/about/editors-choice#editor-s-choice-awards-july-2024 
+
+
+## Past Members
+
+### Carlo Carugno
+
+MSc in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
+
+[LinkedIn](https://www.linkedin.com/in/carlo-carugno-b50331142/)
+
+[GitHub](https://github.com/carugno)
+
+### Christian Tedesco
+
+MSc in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
+
+[LinkedIn](https://www.linkedin.com/in/christian-tedesco/)
+
+[GitHub](https://github.com/ChriT99)
