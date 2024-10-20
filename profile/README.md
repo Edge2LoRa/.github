@@ -43,10 +43,18 @@ MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Ro
 
 [2] Milani, Stefano, Domenico Garlisi, Carlo Carugno, Christian Tedesco, and Ioannis Chatzigiannakis. "Edge2LoRa: Enabling edge computing on long-range wide-area Internet of Things." Internet of Things 27 (2024): 101266. https://doi.org/10.1016/j.iot.2024.101266
 
+[3] Domenico Garlisi, Stefano Milani, Christian Tedesco, Ioannis Chatzigiannakis. Achieving Processing Balance in LoRaWAN Using Multiple Edge Gateways. Springer Nature “Lecture Notes in Computer Science”. In course of publication.
+
+[4]• Lorenzo Frangella, Stefano Milani, Domenico Garlisi, Ioannis Chatzigiannakis. 2024. Poster: LoRa Mobility and Coverage Dataset (LoRaMC). 2024. 21st International Conference on Embedded Wireless Systems and Networks
+(EWSN’24). Accepted, to be presented at the conference.
+
+[5] Lorenzo Frangella, Stefano Milani, Domenico Garlisi, Ioannis Chatzigiannakis. 2024. Demo: Enhancing LoRaWAN Networks with Edge Computing: A Demonstration on a Large-Scale Scenario. 2024. 21st International Conference on Embedded Wireless Systems and Networks (EWSN’24). Accepted, to be presented at the conference.
+
 
 ## Award
 
 * Elsevier Internet of Things Editor's Choice Awards - July 2024 [1] https://www.sciencedirect.com/journal/internet-of-things/about/editors-choice#editor-s-choice-awards-july-2024 
+* ALGOCLOUD 2024 Best Paper Award.
 
 
 ## Past Members
