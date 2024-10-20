@@ -45,7 +45,7 @@ MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Ro
 
 [3] Domenico Garlisi, Stefano Milani, Christian Tedesco, Ioannis Chatzigiannakis. Achieving Processing Balance in LoRaWAN Using Multiple Edge Gateways. Springer Nature “Lecture Notes in Computer Science”. In course of publication.
 
-[4]• Lorenzo Frangella, Stefano Milani, Domenico Garlisi, Ioannis Chatzigiannakis. 2024. Poster: LoRa Mobility and Coverage Dataset (LoRaMC). 2024. 21st International Conference on Embedded Wireless Systems and Networks
+[4] Lorenzo Frangella, Stefano Milani, Domenico Garlisi, Ioannis Chatzigiannakis. 2024. Poster: LoRa Mobility and Coverage Dataset (LoRaMC). 2024. 21st International Conference on Embedded Wireless Systems and Networks
 (EWSN’24). Accepted, to be presented at the conference.
 
 [5] Lorenzo Frangella, Stefano Milani, Domenico Garlisi, Ioannis Chatzigiannakis. 2024. Demo: Enhancing LoRaWAN Networks with Edge Computing: A Demonstration on a Large-Scale Scenario. 2024. 21st International Conference on Embedded Wireless Systems and Networks (EWSN’24). Accepted, to be presented at the conference.
