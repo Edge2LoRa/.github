@@ -6,7 +6,7 @@ Edge2LoRa allows edge computing to be enabled over LoRaWAN.
 
 ### Stefano Milani
 
-PhD Student in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
+Partner @ Spark Srl - Head of IT @ Arpsoft Srl - PhD in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
 
 [LinkedIn](https://www.linkedin.com/in/stefano-milani-561044181/)
 
@@ -22,19 +22,19 @@ Assistant Professor @ University of Palermo - Research Collaborator @ CNIT
 
 ### Ioannis Chatzigiannakis
 
-Associate Professor @ DIAG, Sapienza University of Rome
+Full Professor @ DIAG, Sapienza University of Rome
 
 [LinkedIn](https://www.linkedin.com/in/ichatz/)
 
 [GitHub](https://github.com/ichatz)
 
-### Lorenzo Frangella
+### Valerio Francione
 
-MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Rome. He is currently doing his MSc thesis
+MSc Student in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
 
-[LinkedIn](https://www.linkedin.com/in/lorenzo-frangella-3492b123b/)
+[LinkedIn](https://www.linkedin.com/in/valerio-f-9000a557/)
 
-[GitHub](https://github.com/LorenzoFrangella)
+[GitHub](https://github.com/TheChemistWhite)
 
 
 ## References
@@ -74,3 +74,11 @@ MSc in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
 [LinkedIn](https://www.linkedin.com/in/christian-tedesco/)
 
 [GitHub](https://github.com/ChriT99)
+
+### Lorenzo Frangella
+
+MSc in Engineering in Computer Science @ DIAG, Sapienza University of Rome.
+
+[LinkedIn](https://www.linkedin.com/in/lorenzo-frangella-3492b123b/)
+
+[GitHub](https://github.com/LorenzoFrangella)
